@@ -1,5 +1,5 @@
 # flutter_fl_chart
-Examples of Flutter pie chart integration into flutter. if you want flork or clone and use it.
+Flutter pie chart display using library. Pie chart integration into flutter app examples. if you want clone or fork it.
 
 ## FrameWork
 1. Flutter
