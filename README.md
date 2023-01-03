@@ -1,4 +1,4 @@
-# flutter_fl_chart
+# flutter pie chart
 Flutter pie chart display using library. Pie chart integration into flutter app examples. if you want clone or fork it.
 
 ## FrameWork
